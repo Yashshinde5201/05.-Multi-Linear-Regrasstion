@@ -1,4 +1,5 @@
-05. Multi Linear Regrasstion
+-----Multi Linear Regrasstion
+
 1) Prepare a prediction model for profit of 50_startups data.
 
 
